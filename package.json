@@ -1,0 +1,5 @@
+{
+  "name": "ufl-football-league",
+  "private": true,
+  "workspaces": ["frontend", "backend", "admin-panel"]
+}
